@@ -1,0 +1,13 @@
+name: CompareFifaPlayers
+title: CompareFifaPlayers
+username:
+account: jmannix
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1559037
+bundleId: 2638922
+url: https://jmannix.shinyapps.io/CompareFifaPlayers/
+when: 1575435352.47812
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/data2.csv|www/.DS_Store|www/fifa19banner2.jpg

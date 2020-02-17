@@ -1,4 +1,4 @@
-# RShiny-Fifa-19
+# R Shiny Fifa 19 App
 R Shiny App created to explore and compare Fifa 19 players
 
 

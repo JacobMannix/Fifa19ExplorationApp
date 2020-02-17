@@ -16,4 +16,4 @@ R Shiny App created to explore and compare Fifa 19 players
 - At least 1 image
 
 ### Links
-A link to the code behind the R shiny app can be found [here](/R_Shiny_Assignment/app.R), and the data used for this project comes from Kaggle and was created by [Karan Gadiya](https://www.kaggle.com/karangadiya) and can be found [here](https://www.kaggle.com/karangadiya/fifa19)
+A link to the code behind the R shiny app can be found [here](/R_Shiny_Assignment/app.R), and the data used for this project comes from Kaggle and was created by [Karan Gadiya](https://www.kaggle.com/karangadiya) and can be found [here](https://www.kaggle.com/karangadiya/fifa19).

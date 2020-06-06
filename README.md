@@ -1,31 +1,7 @@
 # R Shiny Fifa 19 App
 R Shiny App created to explore and compare Fifa 19 players
 
-<img src="AppScreenshots/About.png" width="250">
-<img src="AppScreenshots/ComparePlayers.png" width="200">
-<img src="AppScreenshots/FilterByAttribute.png" width="200">
-
-
-.row {
-  display: flex;
-}
-
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
-
-<div class="row">
-  <div class="column">
-    <img src="AppScreenshots/About.png" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="AppScreenshots/About.png" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="AppScreenshots/About.png" alt="Mountains" style="width:100%">
-  </div>
-</div>
+![AppScreenshots](AppScreenshots.png)
 
 ## Project Overview
 - Create a Shiny web application to explore a dataset of your choice

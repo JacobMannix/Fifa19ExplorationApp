@@ -5,6 +5,8 @@ R Shiny App created to explore and compare Fifa 19 players
 ![About](AppScreenshots/ComparePlayers.png {width=100px})
 ![About](AppScreenshots/FilterByAttribute.png | width=100)
 
+<img src="AppScreenshots/FilterByAttribute.png" width="150">
+
 ## Project Overview
 - Create a Shiny web application to explore a dataset of your choice
 - App should be hosted on shinyapps.io

@@ -5,6 +5,16 @@ R Shiny App created to explore and compare Fifa 19 players
 <img src="AppScreenshots/ComparePlayers.png" width="200">
 <img src="AppScreenshots/FilterByAttribute.png" width="200">
 
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
 <div class="row">
   <div class="column">
     <img src="AppScreenshots/About.png" alt="Snow" style="width:100%">

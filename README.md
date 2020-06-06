@@ -2,7 +2,7 @@
 R Shiny App created to explore and compare Fifa 19 players
 
 ![About](AppScreenshots/About.png =100x)
-![About](AppScreenshots/ComparePlayers.png | width=100)
+![About](AppScreenshots/ComparePlayers.png {width=100px})
 ![About](AppScreenshots/FilterByAttribute.png | width=100)
 
 ## Project Overview

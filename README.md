@@ -1,5 +1,9 @@
 # R Shiny Fifa 19 App
-R Shiny App created to explore and compare Fifa 19 players
+[![GitHub](https://img.shields.io/github/license/jacobmannix/fifa-player-comparisons?color=blue)](LICENSE)
+[![GitHub top language](https://img.shields.io/github/languages/top/jacobmannix/fifa-player-comparisons)](https://github.com/JacobMannix/fifa-player-comparisons)
+[![GitHub last commit](https://img.shields.io/github/last-commit/jacobmannix/fifa-player-comparisons)](https://github.com/JacobMannix/fifa-player-comparisons/commits/master)
+
+> <b> R Shiny App created to explore and compare Fifa 19 players. </b>
 
 ![AppScreenshots](images/AppScreenshots.png)
 
